@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - 👋 Hi, I’m @chaitu0609
 - 🔭 I’m currently working on MERN stack developer
 - 🌱 I’m currently learning basics and data structures  
